@@ -1,0 +1,6 @@
+{
+  "name": "Food Delivery Application",
+  "description": "Full-featured food ordering and delivery platform with real-time order tracking, multi-role views, restaurant & menu management, driver dashboard, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
